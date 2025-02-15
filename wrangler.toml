@@ -11,7 +11,3 @@ id = "b71094844df84aaab694422cd57aadb1"
 [[kv_namespaces]]
 binding = "UPLOAD_STATUS"
 id = "9b4f976bd7604305a2757083ae0d30c7"
-
-[[r2_buckets]]
-bucket_name = "cloudpaste-files"
-binding = "FILE_STORE"
